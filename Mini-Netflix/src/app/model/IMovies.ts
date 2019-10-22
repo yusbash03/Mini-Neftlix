@@ -11,6 +11,6 @@
   Plot:string;
   Language:string;
   Country:string;
-   Awards:number;
+  Awards:number;
    image:any;
  }

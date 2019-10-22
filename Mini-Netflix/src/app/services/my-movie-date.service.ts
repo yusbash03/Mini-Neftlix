@@ -3,6 +3,7 @@ import { Injectable } from '@angular/core';
 import { moviesModel } from '../model/IMovies';
 import { Observable } from 'rxjs';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { map } from 'rxjs/operators';
 
 
 
@@ -23,9 +24,19 @@ export class MyMovieDateService {
     });
   }
 
-
-  getMovieByID(id:number): Observable<moviesModel>{
+  getMovieByIDs(id:number): Observable<moviesModel>{
     return this.http.get<moviesModel>('/assets/movies.json?id='+id);
+  }
+
+  getMovieByID(id: number) {
+    return this.http.get<Array<moviesModel>>(this.moviesUrl)
+      .pipe(
+        map((items: Array<moviesModel>) => {
+          return items.find((item: moviesModel) => {
+            return item.id === id;
+          });
+        })
+      );
   }
 
 

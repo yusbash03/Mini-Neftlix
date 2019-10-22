@@ -20,290 +20,290 @@
   {
     "id": 2,
     "title": "A Star Is Born",
-    "Director":"Josh Radnor",
-    "Rated": 4.5,
-    "Released":"2019",
-    "Runtime":"128min"  ,
-    "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "Director":"Brad Cooper",
+    "Rated": 4.0,
+    "Released":"2018",
+    "Runtime":"1hr 23min"  ,
+    "Genre":"Romance",
+    "Writer":"Francine Mann",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Bradley Cooper", "Lady Gaga", "Robert De Niro"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
-    "Country":"U.S.A",
-     "Awards":7,
+    "Country":"Italy",
+     "Awards":4,
      "image":"/assets/images/posterStarIsborn.jpg"
   },
   {
     "id": 3,
     "title": "Antman And the Wasp",
-    "Director":"Josh Radnor",
-    "Rated": 4.5,
-    "Released":"2019",
-    "Runtime":"128min"  ,
+    "Director":"Paul Rudd",
+    "Rated": 4.6,
+    "Released":"2018",
+    "Runtime":"2hrs 10min"  ,
     "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "Writer":"Daniel Kidman",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Paul Rudd", "Micheal Douglas", "Michelle Pfeiffer"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
     "Country":"U.S.A",
-     "Awards":7,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "Awards":6,
+     "image":"/assets/images/posterantman.jpeg"
   },
   {
     "id": 4,
     "title": "Aladin",
-    "Director":"Josh Radnor",
-    "Rated": 4.5,
+    "Director":"Jaden Smith",
+    "Rated": 4.1,
     "Released":"2019",
-    "Runtime":"128min"  ,
+    "Runtime":"2hrs 3min"  ,
     "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "Writer":"Micheal Douglas",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Will Smith", "Adam Brady", "Sarah Lanford"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
     "Country":"U.S.A",
-     "Awards":7,
+     "Awards":2,
      "image":"/assets/images/postrAladin.jpg"
   },
   {
     "id": 5,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
-    "Rated": 4.5,
+    "title": "Aquaman",
+    "Director":"Jack Sneider",
+    "Rated": 4.8,
     "Released":"2019",
-    "Runtime":"128min"  ,
+    "Runtime":"2hrs 20min"  ,
     "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "Writer":"Henry Cavil",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Jason Momoa","Dolph Lungdren","Sarah Connor"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
     "Country":"U.S.A",
      "Awards":7,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "image":"/assets/images/posterAqua.jpg"
   },
   {
     "id": 6,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
-    "Rated": 4.5,
-    "Released":"2019",
-    "Runtime":"128min"  ,
+    "title": "Black Panther",
+    "Director":"Anthony Bossman",
+    "Rated": 4.8,
+    "Released":"2018",
+    "Runtime":"2hrs 15min"  ,
     "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "Writer":"Leticia wright",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Chadwick Bossman", "Danai Gurera","Al Jordan"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
-    "Country":"U.S.A",
+    "Country":"Wakanda",
      "Awards":7,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "image":"/assets/images/posterblackpanther.jpg"
   },
   {
     "id": 7,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
-    "Rated": 4.5,
-    "Released":"2019",
-    "Runtime":"128min"  ,
+    "title": "Avatar",
+    "Director":"Steven Spielberg",
+    "Rated": 4.99,
+    "Released":"2010",
+    "Runtime":"2hrs 30min"  ,
     "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "Writer":"Sam Dele",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Samuel Worshignton", "Zoe Saldana", "Sigourney Weaver"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
     "Country":"U.S.A",
-     "Awards":7,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "Awards":11,
+     "image":"/assets/images/posteravatar.jpg"
   },
   {
     "id": 8,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
+    "title": "Hunger Games",
+    "Director":"Jenifer Cage",
     "Rated": 4.5,
-    "Released":"2019",
-    "Runtime":"128min"  ,
-    "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "Released":"2012",
+    "Runtime":"2hrs 10min"  ,
+    "Genre":"Fantasy",
+    "Writer":"Ben Affleck",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Nadeiine Mann", "Jenifer Lawrence", "Laurence Fishburne"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
     "Country":"U.S.A",
-     "Awards":7,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "Awards":5,
+     "image":"/assets/images/posterHungergames.jpg"
   },
   {
     "id": 9,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
-    "Rated": 4.5,
-    "Released":"2019",
-    "Runtime":"128min"  ,
-    "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "title": "Lionheart",
+    "Director":"Nkem Edochie",
+    "Rated": 4.4,
+    "Released":"2017",
+    "Runtime":"2hr 2min"  ,
+    "Genre":"Drama",
+    "Writer":"Samuel Adeleke",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Nkem Owoh", "Genevieve Nnaji", "Pete Edochie"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
-    "Country":"U.S.A",
-     "Awards":7,
-     "image":"/assets/images/posterCmarvel.jpg"
+    "Country":"Nigeria",
+     "Awards":3,
+     "image":"/assets/images/posterLionheart.jpg"
   },
   {
     "id": 10,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
-    "Rated": 4.5,
+    "title": "Beats",
+    "Director":"Laurence Fishburne",
+    "Rated": 4.0,
     "Released":"2019",
-    "Runtime":"128min"  ,
-    "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "Runtime":"1hr 40min"  ,
+    "Genre":"Thriller",
+    "Writer":"Samuel Carter",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Anthony Anderson", "Zoe Saldana", "Andre Anderson"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
     "Country":"U.S.A",
-     "Awards":3,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "Awards":2,
+     "image":"/assets/images/posterBeats.jpg"
   },
   {
     "id": 11,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
-    "Rated": 4.5,
-    "Released":"2019",
-    "Runtime":"128min"  ,
-    "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "title": "Home Alone",
+    "Director":"Irene Frank",
+    "Rated": 4.7,
+    "Released":"1991",
+    "Runtime":"2hrs 2min"  ,
+    "Genre":"Family",
+    "Writer":"Jon Snow",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Daniel Freeman", "Lauren Brady","Anne Hatheway"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
     "Country":"U.S.A",
      "Awards":4,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "image":"/assets/images/posterHOmeAlo.jpg"
   },
   {
     "id": 12,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
+    "title": "Avengers Endgame",
+    "Director":"Stan Lee",
     "Rated": 4.5,
     "Released":"2019",
-    "Runtime":"128min"  ,
+    "Runtime":"2hrs 45min"  ,
     "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "Writer":"Stan Lee",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Samuel L. Jackson","Zoe Saldana","Josh Brolin", "Brie Larson"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
     "Country":"U.S.A",
-     "Awards":7,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "Awards":10,
+     "image":"/assets/images/posterEndgame.jpg"
   },
   {
     "id": 13,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
+    "title": "Shazam",
+    "Director":"Zach Levi",
     "Rated": 4.5,
     "Released":"2019",
-    "Runtime":"128min"  ,
+    "Runtime":"2hrs 20min"  ,
     "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "Writer":"Denis Dugan",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Zachary Levi", "Adam Brody","Meagan Goode"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
     "Country":"U.S.A",
      "Awards":7,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "image":"/assets/images/postershazam.jpg"
   },
   {
     "id": 14,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
-    "Rated": 4.5,
-    "Released":"2019",
-    "Runtime":"128min"  ,
-    "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "title": "Chief Daddy",
+    "Director":"Sam Dede",
+    "Rated": 4.1,
+    "Released":"2018",
+    "Runtime":"1hr 23min"  ,
+    "Genre":"Drama",
+    "Writer":"Adeleke Joshua",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Richard Mofe Damijo", "Omotola J. Ekehinde", "SIlas Frank"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
-    "Country":"U.S.A",
+    "Country":"Nigeria",
      "Awards":3,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "image":"/assets/images/posterchiefdad.jpg"
   },
   {
     "id": 15,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
+    "title": "R.I.P.D",
+    "Director":"Ryan Goslin",
     "Rated": 4.5,
-    "Released":"2019",
-    "Runtime":"128min"  ,
-    "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "Released":"2015",
+    "Runtime":"2hr 10min"  ,
+    "Genre":"Fantasy",
+    "Writer":"Peter Parker",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Ryan Reynolds", "Lauren Brady", "Randy Orton"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
     "Country":"U.S.A",
-     "Awards":1,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "Awards":4,
+     "image":"/assets/images/posterRIPD.jpg"
   },
   {
     "id": 16,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
+    "title": "Fast and Furious",
+    "Director":"Roman Reigns",
     "Rated": 4.5,
-    "Released":"2019",
-    "Runtime":"128min"  ,
-    "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "Released":"2016",
+    "Runtime":"2hrs 14min"  ,
+    "Genre":"Adventure",
+    "Writer":"Josh Brolin",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Vin Desel","Dwayne Johnson","Ludacris"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
-    "Country":"U.S.A",
+    "Country":"Brazil",
      "Awards":7,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "image":"/assets/images/posterFast.jpg"
   },
   {
     "id": 17,
-    "title": "Captain Marvel",
-    "Director":"Josh Radnor",
-    "Rated": 4.5,
-    "Released":"2019",
-    "Runtime":"128min"  ,
-    "Genre":"Sci-Fi",
-    "Writer":"Samuel Writes",
+    "title": "Beauty and the Beast",
+    "Director":"Sarah James",
+    "Rated": 4.4,
+    "Released":"2018",
+    "Runtime":"2hrs 13min"  ,
+    "Genre":"Fantasy",
+    "Writer":"Phoebe Buffe",
     "Actors":[
-      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+      "Emma Watson", "Laura Kent", "Adam Smith"
     ]  ,
     "Plot":"A superhero saving the universe from extinction",
     "Language":"English",
     "Country":"U.S.A",
      "Awards":7,
-     "image":"/assets/images/posterCmarvel.jpg"
+     "image":"/assets/images/posterBeauty.jpg"
   },
   {
     "id": 18,

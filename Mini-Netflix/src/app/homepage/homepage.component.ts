@@ -31,7 +31,7 @@ export class HomepageComponent implements OnInit {
   }
 
 
-  filterTitles(searchString: string){
+  filterTitles(){
     if(this.title !=""){
       this.allmovies = this.allmovies.filter(movies=>{
         return movies.title.toLocaleLowerCase().match(this.title.toLocaleLowerCase());

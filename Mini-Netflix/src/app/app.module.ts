@@ -10,6 +10,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
 import { RouterModule, Routes } from '@angular/router';
 import { FormsModule } from '@angular/forms';
+import { FavouriteMoviesComponent } from './favourite-movies/favourite-movies.component';
 
 const appRoutes: Routes = [
   { path: 'movieshomepage', component: HomepageComponent },
@@ -31,11 +32,11 @@ const appRoutes: Routes = [
     HomepageComponent,
     MovieDetailsComponent,
     NavbarComponent,
-    PagenotfoundComponent
+    PagenotfoundComponent,
+    FavouriteMoviesComponent
   ],
   imports: [
     BrowserModule,
-    //HttpClient,
     HttpClientModule,
     RouterModule.forRoot(
       appRoutes,
