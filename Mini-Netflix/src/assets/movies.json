@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+    "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 2,
+    "title": "A Star Is Born",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterStarIsborn.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Antman And the Wasp",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Aladin",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/postrAladin.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":3,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":4,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":3,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":1,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":5,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  },
+  {
+  "id": 22,
+    "title": "Captain Marvel",
+    "Director":"Josh Radnor",
+    "Rated": 4.5,
+    "Released":"2019",
+    "Runtime":"128min"  ,
+    "Genre":"Sci-Fi",
+    "Writer":"Samuel Writes",
+    "Actors":[
+      "Samuel L. Jackson","Lauren Brady","Al Pacino"
+    ]  ,
+    "Plot":"A superhero saving the universe from extinction",
+    "Language":"English",
+    "Country":"U.S.A",
+     "Awards":7,
+     "image":"/assets/images/posterCmarvel.jpg"
+  }
+]
