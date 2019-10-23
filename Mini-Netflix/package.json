@@ -4,7 +4,9 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --prod",
+    "list": "ls -l dist",
+    "prod": "ng build --prod",
+    "build": "npm run prod && npm run list",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
